@@ -8,7 +8,7 @@
 :copyright: (c) 2016 Predikto Inc.
 """
 
-from colcleaner.metrics.base import BaseMetric
+from ripyr.metrics.base import BaseMetric
 
 __author__ = 'willmcginnis'
 

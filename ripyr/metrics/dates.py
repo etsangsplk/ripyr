@@ -9,7 +9,7 @@
 """
 
 from itertools import zip_longest
-from colcleaner.metrics.base import BaseMetric
+from ripyr.metrics.base import BaseMetric
 
 __author__ = 'willmcginnis'
 

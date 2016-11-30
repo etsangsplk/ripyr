@@ -1,7 +1,7 @@
-from colcleaner.metrics.numeric import CountMetric, MinMetric, MaxMetric
-from colcleaner.metrics.categorical import CardinalityMetric
-from colcleaner.metrics.dates import DateFormat
-from colcleaner.metrics.inference import TypingMetric
+from ripyr.metrics.numeric import CountMetric, MinMetric, MaxMetric
+from ripyr.metrics.categorical import CardinalityMetric
+from ripyr.metrics.dates import DateFormat
+from ripyr.metrics.inference import TypingMetric
 
 __author__ = 'willmcginnis'
 

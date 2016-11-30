@@ -12,9 +12,9 @@ import time
 import json
 import datetime
 import random
-from colcleaner.streaming import StreamingColCleaner
-from colcleaner.sources.disk import RowJSONDiskSource
-from colcleaner.metrics import *
+from ripyr.streaming import StreamingColCleaner
+from ripyr.sources.disk import RowJSONDiskSource
+from ripyr.metrics import *
 
 __author__ = 'willmcginnis'
 
